@@ -15,9 +15,9 @@
 
 > Bridging research and real-world applications with mathematics, embedded intelligence, and secure computation.
 
-I'm a multi-domain researcher and engineer with active contributions in signal/image processing, AI system deployment, backend architecture, embedded design, and system exploitation. I aspire to lead a life of quiet purpose—one that harmonizes scientific inquiry, natural beauty, and compassion for humanity. Through research and innovation, I seek to illuminate the unseen for those without sight, and to contribute, in my humble way, to the greater cycle of giving that sustains this universe.
+*IMPORTANT: This profile is exclusively intended for academic purposes. For my public profile, kindly visit: https://github.com/geeksloth*
 
-*Note: This profile is exclusively intended for academic purposes. For the public profile, kindly visit: https://github.com/geeksloth*
+I'm a multi-domain researcher and engineer with active contributions in signal/image processing, AI system deployment, backend architecture, embedded design, and system exploitation. I aspire to lead a life of quiet purpose—one that harmonizes scientific inquiry, natural beauty, and compassion for humanity. Through research and innovation, I seek to illuminate the unseen for those without sight, and to contribute, in my humble way, to the greater cycle of giving that sustains this universe.
 
 ---
 
