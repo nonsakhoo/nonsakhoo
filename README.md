@@ -11,7 +11,7 @@
 
 ---
 
-# 🎓 Hello, My name is Mr. Nonsakhoo
+# 🎓 Hello, my name is Mr. Nonsakhoo
 
 > Bridging research and real-world applications with mathematics, embedded intelligence, and secure computation.
 
