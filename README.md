@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IEEE-Member-blue?style=for-the-badge&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDPI-Sensors-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MATLAB-Signal%20Processing-blue?style=for-the-badge&logo=Mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Deep%20Tech-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
