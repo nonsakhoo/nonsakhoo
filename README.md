@@ -140,5 +140,10 @@ GitHub: https://github.com/geeksloth (Owner verification phrase, shown at the co
 **Knowledge Sharing:**  
 YouTube Channel: https://www.youtube.com/@geeksloth
 
+
+---
+
+> **Important Note:**  
+> This profile is restricted to academic purposes only. For public contributions and projects, please visit [https://github.com/geeksloth](https://github.com/geeksloth).
 ---
 
