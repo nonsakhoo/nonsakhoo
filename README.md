@@ -35,7 +35,7 @@ Khon Kaen University, Thailand
 
 **Primary & Secondary Education** (Grade 1–12)  
 Thailand  
-*1st place for 7 consecutive years; consistently ranked in top 5 of advanced academic program*
+*1st place for 7 consecutive years, and always in the top 5.*
 
 ---
 
