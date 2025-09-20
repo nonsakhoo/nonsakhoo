@@ -108,7 +108,7 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 7. P. Sirisawat, S. Saiyod and W. Nonsakhoo, "Vertical Localization by Multipath Analysis in Artificial Human Ears for Robots," *2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)*, Greater Noida, India, 2021, pp. 563-568, doi: [10.1109/ICCCIS51004.2021.9397239].
 
 ---
-
+<!--
 ### Papers Under Review / In Preparation
 
 - "Movement Artifact Direction Estimation based on Signal Processing Analysis of Single-Frame Images"
@@ -116,10 +116,10 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 - "An Empirical Multi-Orientation-Velocity Motion Blur Single-Frame Images Dataset"
 
 ---
-
+-->
 ## Research Datasets
 
-### Under Review Datasets
+### Datasets
 - **Directional Motion Blur Minimal Dataset v1**  
   *Public URL:* https://www.kaggle.com/datasets/nonsakhoo/directional-motion-blur-minimal-v1  
   *Private URL:* *restricted for email reply*  
