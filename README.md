@@ -135,7 +135,7 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 GitHub: https://github.com/nonsakhoo
 
 **Public Development Profile:**  
-GitHub: https://github.com/geeksloth (Owner verification phrase, shown at the contact section: "sensors-3907994")  
+GitHub: https://github.com/geeksloth
 
 **Knowledge Sharing:**  
 YouTube Channel: https://www.youtube.com/@geeksloth
