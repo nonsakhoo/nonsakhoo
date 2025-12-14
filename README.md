@@ -93,19 +93,19 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 ---
 
 ## Publications
-1. N. Thanomsieng, N. Boonruam, P. Sirisawat, W. Nonsakhoo and S. Saiyod, "Landscape analysis system using 3D stereoscopic for drone," *2017 IEEE 13th International Colloquium on Signal Processing & its Applications (CSPA)*, Penang, Malaysia, 2017, pp. 118-122, doi: [10.1109/CSPA.2017.8064935].
+1. N. Thanomsieng, N. Boonruam, P. Sirisawat, W. Nonsakhoo and S. Saiyod, "Landscape analysis system using 3D stereoscopic for drone," *2017 IEEE 13th International Colloquium on Signal Processing & its Applications (CSPA)*, Penang, Malaysia, 2017, pp. 118-122. https://doi.org/10.1109/CSPA.2017.8064935
 
-2. W. Nonsakhoo, P. Sirisawat, S. Saiyod and N. Benjamas, "Angle of arrival estimation by using stereo ultrasonic technique for local positioning system," *2017 IEEE 13th International Colloquium on Signal Processing & its Applications (CSPA)*, Penang, Malaysia, 2017, pp. 112-117, doi: [10.1109/CSPA.2017.8064934].
+2. W. Nonsakhoo, P. Sirisawat, S. Saiyod and N. Benjamas, "Angle of arrival estimation by using stereo ultrasonic technique for local positioning system," *2017 IEEE 13th International Colloquium on Signal Processing & its Applications (CSPA)*, Penang, Malaysia, 2017, pp. 112-117. https://doi.org/10.1109/CSPA.2017.8064934
 
-3. P. Sirisawat, W. Nonsakhoo and S. Saiyod, "Source sound determination in horizontal plane using human ears shape microphones," *2018 5th International Conference on Business and Industrial Research (ICBIR)*, Bangkok, Thailand, 2018, pp. 195-199, doi: [10.1109/ICBIR.2018.8391191].
+3. P. Sirisawat, W. Nonsakhoo and S. Saiyod, "Source sound determination in horizontal plane using human ears shape microphones," *2018 5th International Conference on Business and Industrial Research (ICBIR)*, Bangkok, Thailand, 2018, pp. 195-199. https://doi.org/10.1109/ICBIR.2018.8391191
 
-4. T. Nabandit, S. Saiyod, W. Nonsakhoo and P. Sirisawat, "Obstacle Detection and Avoidance based on 3D Stereoscopic Technique for Autonomous Drone," *2021 13th International Conference on Information Technology and Electrical Engineering (ICITEE)*, Chiang Mai, Thailand, 2021, pp. 86-91, doi: [10.1109/ICITEE53064.2021.9611876].
+4. T. Nabandit, S. Saiyod, W. Nonsakhoo and P. Sirisawat, "Obstacle Detection and Avoidance based on 3D Stereoscopic Technique for Autonomous Drone," *2021 13th International Conference on Information Technology and Electrical Engineering (ICITEE)*, Chiang Mai, Thailand, 2021, pp. 86-91. https://doi.org/10.1109/ICITEE53064.2021.9611876
 
-5. W. Nonsakhoo, S. Saiyod and N. Moungmingsuk, "Angle-of-Arrival Analysis of Multi-channel Stereo Ultrasonic Signal for Angular Coordinates Positioning," *2018 2nd International Conference on Imaging, Signal Processing and Communication (ICISPC)*, Kuala Lumpur, Malaysia, 2018, pp. 125-131, doi: [10.1109/ICISPC44900.2018.9006712].
+5. W. Nonsakhoo, S. Saiyod and N. Moungmingsuk, "Angle-of-Arrival Analysis of Multi-channel Stereo Ultrasonic Signal for Angular Coordinates Positioning," *2018 2nd International Conference on Imaging, Signal Processing and Communication (ICISPC)*, Kuala Lumpur, Malaysia, 2018, pp. 125-131. https://doi.org/10.1109/ICISPC44900.2018.9006712
 
-6. W. Nonsakhoo, S. Saiyod, P. Sirisawat, R. Suwanwerakamtorn, N. Chamadol and N. Khuntikeo, "Liver Ultrasound Image Classification of Periductal Fibrosis Based on Transfer Learning and FCNet for Liver Ultrasound Images Analysis System," *2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)*, Greater Noida, India, 2021, pp. 569-575, doi: [10.1109/ICCCIS51004.2021.9397182].
+6. W. Nonsakhoo, S. Saiyod, P. Sirisawat, R. Suwanwerakamtorn, N. Chamadol and N. Khuntikeo, "Liver Ultrasound Image Classification of Periductal Fibrosis Based on Transfer Learning and FCNet for Liver Ultrasound Images Analysis System," *2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)*, Greater Noida, India, 2021, pp. 569-575. https://doi.org/10.1109/ICCCIS51004.2021.9397182
 
-7. P. Sirisawat, S. Saiyod and W. Nonsakhoo, "Vertical Localization by Multipath Analysis in Artificial Human Ears for Robots," *2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)*, Greater Noida, India, 2021, pp. 563-568, doi: [10.1109/ICCCIS51004.2021.9397239].
+7. P. Sirisawat, S. Saiyod and W. Nonsakhoo, "Vertical Localization by Multipath Analysis in Artificial Human Ears for Robots," *2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)*, Greater Noida, India, 2021, pp. 563-568. https://doi.org/10.1109/ICCCIS51004.2021.9397239
 
 8. Nonsakhoo W, Saiyod S. Movement Artifact Direction Estimation Based on Signal Processing Analysis of Single-Frame Images. Sensors. 2025; 25(24):7487. https://doi.org/10.3390/s25247487
 ---
@@ -122,9 +122,9 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 
 ### Datasets
 - **Directional Motion Blur Minimal Dataset v1**  
-  *URL:* https://doi.org/10.34740/kaggle/dsv/13096999
   *Description:* Empirically captured single-frame image set for benchmarking movement (motion blur) artifact direction estimation and weighted magnitude quantification. Each image contains a single dark circular object translated during exposure over a white background, producing controllable linear blur governed by (orientation pair, velocity).  
-  *Related paper:* https://www.mdpi.com/3627818
+  *Dataset url:* https://doi.org/10.34740/kaggle/dsv/13096999  
+  *Related paper:* https://doi.org/10.3390/s25247487  
 
 
 ---
