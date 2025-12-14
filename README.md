@@ -107,17 +107,11 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 
 7. P. Sirisawat, S. Saiyod and W. Nonsakhoo, "Vertical Localization by Multipath Analysis in Artificial Human Ears for Robots," *2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)*, Greater Noida, India, 2021, pp. 563-568. https://doi.org/10.1109/ICCCIS51004.2021.9397239
 
-8. Nonsakhoo W, Saiyod S. Movement Artifact Direction Estimation Based on Signal Processing Analysis of Single-Frame Images. Sensors. 2025; 25(24):7487. https://doi.org/10.3390/s25247487
----
-<!--
-### Papers Under Review / In Preparation
+8. Nonsakhoo W, Saiyod S. Movement Artifact Direction Estimation Based on Signal Processing Analysis of Single-Frame Images. Sensors. 2025; 25(24):7487. https://doi.org/10.3390/s25247487  
 
-- "Movement Artifact Direction Estimation based on Signal Processing Analysis of Single-Frame Images"
-- "A Novel Method for Movement Artifact Detection and Quantification Using Signal Analysis on a Controlled Empirical Image Dataset"
-- "An Empirical Multi-Orientation-Velocity Motion Blur Single-Frame Images Dataset"
 
 ---
--->
+
 ## Research Datasets
 
 ### Datasets
@@ -144,6 +138,6 @@ YouTube Channel: https://www.youtube.com/@geeksloth
 ---
 
 > **Important Note:**  
-> This profile is restricted to academic purposes only. For public contributions and projects, please visit [https://github.com/geeksloth](https://github.com/geeksloth).
+> This profile is exclusively intended for academic purposes and is subject to limited updates. For public contributions and projects, please visit [https://github.com/geeksloth](https://github.com/geeksloth).
 ---
 
