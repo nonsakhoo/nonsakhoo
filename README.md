@@ -1,13 +1,11 @@
-# Curriculum Vitae
+# Mr. Woottichai Nonsakhoo
 
-**Mr. Woottichai Nonsakhoo**  
-Ph.D. Candidate in Computer Science  
 Hardware-Human Interface and Communications Laboratory (H2I-Comm Lab)  
 Department of Computer Science, College of Computing  
 Khon Kaen University, Thailand  
 
-*Email:* [nonsakhoo@cassia.kku.ac.th]  
-*ORCID:* [0009-0004-8824-4014]  
+*Email:* [nonsakhoo@cassia.kku.ac.th](nonsakhoo@cassia.kku.ac.th)  
+*ORCID:* [0009-0004-8824-4014](https://orcid.org/0009-0004-8824-4014)  
 *Academic GitHub:* https://github.com/nonsakhoo  
 *Public GitHub:* https://github.com/geeksloth  
 *Public YouTube:* https://www.youtube.com/@geeksloth  
