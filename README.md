@@ -69,23 +69,21 @@ Cybersecurity for sensor networks, blockchain integration for secure data handli
 ## Professional Experience
 
 **Electronics and Embedded System Engineer**  
-*Talent Mobility Project, Khon Kaen University*  
+- *Talent Mobility Project, Khon Kaen University*  
 Development of sensor-based embedded systems for real-world applications
-
-**Electronics and Embedded System Engineer**  
-*Co-Research Project with Major Poultry Farming Company, Thailand*  
+- *Co-Research Project with Major Poultry Farming Company, Thailand*  
 Design and implementation of sensor-driven monitoring and control systems for agricultural applications
 
 **AI Researcher**  
-*Cholangiocarcinoma Screening and Care Program*  
+- *Cholangiocarcinoma Screening and Care Program*  
 Development of bile duct cancer surveillance systems and liver ultrasound image analysis algorithms
 
 **Software Developer and AI Engineer**  
-*Startup Collaboration Project, Khon Kaen University*  
+- *Startup Collaboration Project, Khon Kaen University*  
 Development of smart sensing solutions for healthcare applications
 
 **AI Engineer**  
-*Smart Traffic Program, Khon Kaen University*  
+- *Smart Traffic Program, Khon Kaen University*  
 Vehicle detection and classification systems, sensor integration, cloud computing orchestration, and real-time traffic control systems
 
 ---
