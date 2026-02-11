@@ -14,7 +14,7 @@ Khon Kaen University, Thailand
 
 ## Biography
 
-He is a researcher and engineer specializing in signal and image processing, sensor systems, and AI-based medical imaging. His work spans the development of algorithms for noise reduction, ultrasound image analysis, and intelligent sensing systems. Alongside research, He engages in embedded system design, edge AI deployment, and applied projects in healthcare and smart infrastructure. He aspires to harmonize scientific inquiry with societal benefit, contributing tools that reveal the unseen and improve human well-being.
+He is a researcher and engineer specializing in digital signal and image processing, sensor fusion, and AI-driven medical imaging systems. His research emphasizes transform-domain analysis, stochastic modeling of multiplicative noise in ultrasound imaging, inverse problem formulation for artifact suppression, and optimization-based reconstruction methods. He develops intelligent sensing architectures and embedded edge AI platforms for real-time healthcare signal processing. His long-term objective is to formalize computational sensory substitution as a cross-modal mapping problem, designing mathematically grounded operators that transform stereoscopic visual fields into structured spatial–temporal auditory representations for assistive perception systems.
 
 ---
 
