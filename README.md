@@ -53,16 +53,16 @@ Thailand
 MATLAB, Python; Fourier transform analysis, multiplicative noise reduction, ultrasound image enhancement algorithms
 
 ### Artificial Intelligence and Machine Learning
-PyTorch, TensorFlow, Keras; AI-based medical imaging classification, edge AI deployment on NVIDIA Jetson devices
-
-### Embedded Systems and Sensor Technologies
-STM32, ESP32, Arduino prototyping, PLC programming, PCB design with KiCAD and Fritzing
+PyTorch, TensorFlow, Keras; AI-based medical imaging classification, edge AI deployment on NVIDIA Jetson devices [ref: ai-engineer](https://github.com/geeksloth#-ai-engineer)
 
 ### Backend Development and Systems
-Python Flask/Django, Docker containerization, database management (MongoDB, PostgreSQL, MySQL)
+Python Flask/Django, Docker containerization, database management (MongoDB, PostgreSQL, MySQL) [ref: soft-eng](https://github.com/geeksloth#-backend-software-developer)
+
+### Embedded Systems and Sensor Technologies
+STM32, ESP32, Arduino prototyping, PLC programming, PCB design with KiCAD, Fritzing, and EasyEDA [ref: embedded-eng](https://github.com/geeksloth#-embedded-system--hardware-engineer)
 
 ### Supporting Technologies
-Cybersecurity for sensor networks, blockchain integration for secure data handling, CUDA programming for GPU acceleration
+Cybersecurity for sensor networks, blockchain integration for secure data handling, CUDA programming for GPU acceleration [ref: cyber-physical](https://github.com/geeksloth#%EF%B8%8F-system-exploitation--cyber-physical-engineer)
 
 ---
 
@@ -80,7 +80,7 @@ Development of bile duct cancer surveillance systems and liver ultrasound image 
 
 **Software Developer and AI Engineer**  
 - *Startup Collaboration Project, Khon Kaen University*  
-Development of smart sensing solutions for healthcare applications
+Development of license plate recognition, vehicle recognition, and parking lot availability using camera-as-a-sensor.
 
 **AI Engineer**  
 - *Smart Traffic Program, Khon Kaen University*  
