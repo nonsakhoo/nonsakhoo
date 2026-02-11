@@ -39,11 +39,20 @@ Thailand
 
 ## Research Interests
 
-- **Signal and Image Processing:** Noise modeling, Fourier-based denoising algorithms, medical imaging enhancement
-- **AI for Medical Sensing and Diagnosis:** Image classification, cancer surveillance systems, ultrasound feature extraction for diagnostic applications, EKG analysis
-- **Sensor-Integrated Embedded Systems:** STM32/ESP32 platforms, PCB prototyping, smart sensing device development
-- **Edge AI and Deployment:** NVIDIA Jetson platforms, CUDA programming, real-time sensor-data processing
-- **Smart Infrastructure:** Sensor networks for traffic monitoring and agricultural sensing systems
+- **Signal and Image Processing:**  
+  *Stochastic modeling of additive and multiplicative noise processes, spectral-domain filtering (Fourier, wavelet, and adaptive transforms), variational and inverse problem formulations for image reconstruction, and optimization-based artifact suppression in ultrasound and low-SNR medical imaging systems.*
+  
+- **AI for Medical Sensing and Diagnosis Inference:**  
+  *Statistical learning and deep neural architectures for high-dimensional feature extraction, multimodal data fusion, ECG/ultrasound signal representation learning, probabilistic classification, and decision-theoretic diagnostic modeling.*
+  
+- **Embedded and Sensor-Integrated Intelligent Systems:**  
+  *Real-time signal acquisition and processing on microcontroller-based architectures, hardware–software co-design, deterministic timing analysis, and energy-aware embedded inference frameworks.*
+  
+- **Edge AI and Accelerated Computation:**  
+  *Parallel computing with CUDA-enabled architectures, model compression and quantization, low-latency inference optimization, and deployment of distributed learning pipelines on resource-constrained edge devices.*
+   
+- **Smart and Distributed Sensing Infrastructure:**  
+  *Graph-based sensor networks, distributed estimation and consensus algorithms, adaptive sampling strategies, and data-driven modeling for traffic, agricultural, and urban sensing systems.*  
 
 ---
 
