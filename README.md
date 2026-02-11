@@ -123,13 +123,17 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 
 ---
 
-## Research Datasets
+## Research Datasets and Development Source codes
 
 ### Datasets
 - **Directional Motion Blur Minimal Dataset v1**  
   *Description:* Empirically captured single-frame image set for benchmarking movement (motion blur) artifact direction estimation and weighted magnitude quantification. Each image contains a single dark circular object translated during exposure over a white background, producing controllable linear blur governed by (orientation pair, velocity).  
   *Dataset url:* https://doi.org/10.34740/kaggle/dsv/13096999  
   *Related paper:* https://doi.org/10.3390/s25247487  
+
+### Source codes
+- **Public Repositories**   
+  *Url:* https://github.com/geeksloth?tab=repositories   
 
 ---
 
