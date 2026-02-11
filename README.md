@@ -16,7 +16,7 @@ Khon Kaen University, Thailand
 
 ## Biography
 
-I am a researcher and engineer specializing in signal and image processing, sensor systems, and AI-based medical imaging. My work spans the development of algorithms for noise reduction, ultrasound image analysis, and intelligent sensing systems. Alongside research, I engage in embedded system design, edge AI deployment, and applied projects in healthcare and smart infrastructure. I aspire to harmonize scientific inquiry with societal benefit, contributing tools that reveal the unseen and improve human well-being.
+He is a researcher and engineer specializing in signal and image processing, sensor systems, and AI-based medical imaging. His work spans the development of algorithms for noise reduction, ultrasound image analysis, and intelligent sensing systems. Alongside research, He engages in embedded system design, edge AI deployment, and applied projects in healthcare and smart infrastructure. He aspires to harmonize scientific inquiry with societal benefit, contributing tools that reveal the unseen and improve human well-being.
 
 ---
 
