@@ -81,7 +81,7 @@ Network traffic analysis; cryptographic primitives (hashing, encryption/decrypti
 
 ---
 
-## Core Professional Experience
+## Professional Experience
 
 **Electronics and Embedded System Engineer**  
 - *Talent Mobility Project, Khon Kaen University*  
