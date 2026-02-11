@@ -39,8 +39,8 @@ Thailand
 
 ## Research Interests
 
-- **Signal and Image Processing:** Noise modeling, Fourier-based denoising algorithms, medical ultrasound imaging enhancement
-- **AI for Medical Sensing and Diagnosis:** Image classification, cancer surveillance systems, ultrasound feature extraction for diagnostic applications
+- **Signal and Image Processing:** Noise modeling, Fourier-based denoising algorithms, medical imaging enhancement
+- **AI for Medical Sensing and Diagnosis:** Image classification, cancer surveillance systems, ultrasound feature extraction for diagnostic applications, EKG analysis
 - **Sensor-Integrated Embedded Systems:** STM32/ESP32 platforms, PCB prototyping, smart sensing device development
 - **Edge AI and Deployment:** NVIDIA Jetson platforms, CUDA programming, real-time sensor-data processing
 - **Smart Infrastructure:** Sensor networks for traffic monitoring and agricultural sensing systems
@@ -56,10 +56,10 @@ MATLAB, Python; Fourier transform analysis, multiplicative noise reduction, ultr
 PyTorch, TensorFlow, Keras; AI-based medical imaging classification, edge AI deployment on NVIDIA Jetson devices [ref: ai-engineer](https://github.com/geeksloth#-ai-engineer)
 
 ### Backend Development and Systems
-Python Flask/Django, Docker containerization, database management (MongoDB, PostgreSQL, MySQL) [ref: soft-eng](https://github.com/geeksloth#-backend-software-developer)
+Python Flask/Django, Docker containerization, database management (MongoDB, PostgreSQL, MySQL) [ref: soft-engineer](https://github.com/geeksloth#-backend-software-developer)
 
 ### Embedded Systems and Sensor Technologies
-STM32, ESP32, Arduino prototyping, PLC programming, PCB design with KiCAD, Fritzing, and EasyEDA [ref: embedded-eng](https://github.com/geeksloth#-embedded-system--hardware-engineer)
+STM32, ESP32, Arduino prototyping, PLC programming, PCB design with KiCAD, Fritzing, and EasyEDA [ref: embedded-engineer](https://github.com/geeksloth#-embedded-system--hardware-engineer)
 
 ### Supporting Technologies
 Cybersecurity for sensor networks, blockchain integration for secure data handling, CUDA programming for GPU acceleration [ref: cyber-physical](https://github.com/geeksloth#%EF%B8%8F-system-exploitation--cyber-physical-engineer)
@@ -116,7 +116,6 @@ Vehicle detection and classification systems, sensor integration, cloud computin
   *Dataset url:* https://doi.org/10.34740/kaggle/dsv/13096999  
   *Related paper:* https://doi.org/10.3390/s25247487  
 
-
 ---
 
 ## Online Academic Profiles
@@ -126,6 +125,7 @@ GitHub: https://github.com/nonsakhoo
 
 **Public Development Profile:**  
 GitHub: https://github.com/geeksloth
+Repositories: https://github.com/geeksloth?tab=repositories
 
 **Knowledge Sharing:**  
 YouTube Channel: https://www.youtube.com/@geeksloth
