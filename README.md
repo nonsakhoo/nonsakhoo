@@ -20,18 +20,18 @@ He is a researcher and engineer specializing in digital signal and image process
 
 ## Education
 
-**Ph.D. Candidate in Computer Science** (Ongoing)  
+- **Ph.D. Candidate in Computer Science** (Ongoing)  
 Khon Kaen University, Thailand  
 
-**M.Sc. in Information and Communication Technology (Computer Science)** (2016–2018)  
+- **M.Sc. in Information and Communication Technology (Computer Science)** (2016–2018)  
 Khon Kaen University, Thailand  
 *GPAX: 3.94*
 
-**B.Sc. in Information and Communication Technology (Computer Science)** (2012–2015)  
+- **B.Sc. in Information and Communication Technology (Computer Science)** (2012–2015)  
 Khon Kaen University, Thailand  
 *GPAX: 3.22*
 
-**Primary & Secondary Education** (Grade 1–12)  
+- **Primary & Secondary Education** (Grade 1–12)  
 Thailand  
 *Ranked in the 1st place for 7 consecutive years, and always in the top 5.*
 
@@ -40,38 +40,44 @@ Thailand
 ## Research Interests
 
 - **Signal and Image Processing:**  
-  *Stochastic modeling of additive and multiplicative noise processes, spectral-domain filtering (Fourier, wavelet, and adaptive transforms), variational and inverse problem formulations for image reconstruction, and optimization-based artifact suppression in ultrasound and low-SNR medical imaging systems.*
+  Stochastic modeling of additive and multiplicative noise processes, spectral-domain filtering (Fourier, wavelet, and adaptive transforms), variational and inverse problem formulations for image reconstruction, and optimization-based artifact suppression in ultrasound and low-SNR medical imaging systems.
   
 - **AI for Medical Sensing and Diagnosis Inference:**  
-  *Statistical learning and deep neural architectures for high-dimensional feature extraction, multimodal data fusion, ECG/ultrasound signal representation learning, probabilistic classification, and decision-theoretic diagnostic modeling.*
+  Statistical learning and deep neural architectures for high-dimensional feature extraction, multimodal data fusion, ECG/ultrasound signal representation learning, probabilistic classification, and decision-theoretic diagnostic modeling.
   
 - **Embedded and Sensor-Integrated Intelligent Systems:**  
-  *Real-time signal acquisition and processing on microcontroller-based architectures, hardware–software co-design, deterministic timing analysis, and energy-aware embedded inference frameworks.*
+  Real-time signal acquisition and processing on microcontroller-based architectures, hardware–software co-design, deterministic timing analysis, and energy-aware embedded inference frameworks.
   
 - **Edge AI and Accelerated Computation:**  
-  *Parallel computing with CUDA-enabled architectures, model compression and quantization, low-latency inference optimization, and deployment of distributed learning pipelines on resource-constrained edge devices.*
+  Parallel computing with CUDA-enabled architectures, model compression and quantization, low-latency inference optimization, and deployment of distributed learning pipelines on resource-constrained edge devices.
    
 - **Smart and Distributed Sensing Infrastructure:**  
-  *Graph-based sensor networks, distributed estimation and consensus algorithms, adaptive sampling strategies, and data-driven modeling for traffic, agricultural, and urban sensing systems.*  
+  Graph-based sensor networks, distributed estimation and consensus algorithms, adaptive sampling strategies, and data-driven modeling for traffic, agricultural, and urban sensing systems.  
 
 ---
 
+
 ## Technical Expertise
 
-### Signal and Image Processing
-MATLAB, Python; Fourier transform analysis, multiplicative noise reduction, ultrasound image enhancement algorithms
+- **Signal & Image Processing Research**  
+Stochastic modeling of additive and multiplicative noise; Fourier and spectral-domain filtering; inverse problem formulation; ultrasound image enhancement; ECG signal processing; multimodal feature extraction; AI-assisted diagnostic systems.  
+***Toolchain:** *MATLAB · Python · VSCode · LaTeX · Matplotlib · Zotero · Draw.io · Markdown · IEEE/MDPI publication workflow*
 
-### Artificial Intelligence and Machine Learning
-PyTorch, TensorFlow, Keras; AI-based medical imaging classification, edge AI deployment on NVIDIA Jetson devices [ref: ai-engineer](https://github.com/geeksloth#-ai-engineer)
+- **Artificial Intelligence & Edge Computing**  
+Deep learning model design, fine-tuning, and optimization; LLM and RAG pipelines; computer vision (e.g., YOLO); fuzzy logic systems; CUDA-accelerated parallel processing; real-time edge AI deployment on NVIDIA Jetson platforms.  
+***Stack:** PyTorch · TensorFlow · Keras · Scikit-learn · CUDA · cuDNN · JetPack · Conda · Docker Compose · Ollama · n8n · Qdrant · Hadoop · Hive · Spark [ref: ai-engineer](https://github.com/geeksloth#-ai-engineer)*
 
-### Backend Development and Systems
-Python Flask/Django, Docker containerization, database management (MongoDB, PostgreSQL, MySQL) [ref: soft-engineer](https://github.com/geeksloth#-backend-software-developer)
+- **Backend & Distributed Systems Engineering**  
+Secure API architecture; containerized microservices; asynchronous messaging; authentication and authorization; real-time data processing; cryptocurrency-integrated services.  
+***Technologies:** Python · Flask · Django · PHP · Git · Ubuntu · Docker · Nginx · JWT · WebSocket · PostgreSQL · MongoDB · MySQL · Redis · RabbitMQ · MQTT · Proxmox · Postman [ref: soft-engineer](https://github.com/geeksloth#-backend-software-developer)*
 
-### Embedded Systems and Sensor Technologies
-STM32, ESP32, Arduino prototyping, PLC programming, PCB design with KiCAD, Fritzing, and EasyEDA [ref: embedded-engineer](https://github.com/geeksloth#-embedded-system--hardware-engineer)
+- **Embedded & Intelligent Hardware Systems**  
+Microcontroller-based real-time processing; hardware–software co-design; PCB prototyping; distributed sensor systems; AI accelerator integration.  
+***Platforms & Tools:** STM32 · ESP32 · Arduino · PLC · Single-board computers · LoRa · RS-485 · SiPeed · Hailo · KiCAD · Fritzing · SketchUp · Kivy  [ref: embedded-engineer](https://github.com/geeksloth#-embedded-system--hardware-engineer)*
 
-### Supporting Technologies
-Cybersecurity for sensor networks, blockchain integration for secure data handling, CUDA programming for GPU acceleration [ref: cyber-physical](https://github.com/geeksloth#%EF%B8%8F-system-exploitation--cyber-physical-engineer)
+- **Cyber-Physical Systems & Computational Security**  
+Network traffic analysis; cryptographic primitives (hashing, encryption/decryption); GPU-based parallel computation; distributed infrastructure security; blockchain and crypto-system engineering.  
+***Environment:** Kali Linux · TailsOS · Tor · SSH · Tailscale · RustDesk · Wireshark · tcpdump · hcxdumptool · Hashcat · Multi-threading · CUDA-enabled GPUs · Crypto mining frameworks · Secure wallet systems  [ref: cyber-physical](https://github.com/geeksloth#%EF%B8%8F-system-exploitation--cyber-physical-engineer)*
 
 ---
 
