@@ -90,7 +90,7 @@ Development of sensor-based embedded systems for real-world applications
 Design and implementation of sensor-driven monitoring and control systems for agricultural applications
 
 **AI Researcher**  
-- *Cholangiocarcinoma Screening and Care Program*  
+- *Cholangiocarcinoma Screening and Care Program (CASCAP), Cholangiocarcinoma Research Institute (CARI)*  
 Development of bile duct cancer surveillance systems and liver ultrasound image analysis algorithms
 
 **Software Developer and AI Engineer**  
