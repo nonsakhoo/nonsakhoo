@@ -33,7 +33,8 @@ Khon Kaen University, Thailand
 
 - **Primary & Secondary Education** (Grade 1–12)  
 Thailand  
-*He ranked 1st for 7 consecutive years and consistently ranked in the top 5 with an overall GPAX of 4.00*
+He ranked 1st for 7 consecutive years and consistently ranked in the top 5 with an overall-  
+*GPAX of 4.00*
 
 ---
 
