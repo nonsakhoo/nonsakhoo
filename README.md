@@ -6,6 +6,7 @@ Khon Kaen University, Thailand
 
 *Email:* [nonsakhoo@cassia.kku.ac.th](nonsakhoo@cassia.kku.ac.th)  
 *ORCID:* [0009-0004-8824-4014](https://orcid.org/0009-0004-8824-4014)  
+*Google Scholar:* https://scholar.google.com/scholar?q=Woottichai+Nonsakhoo  
 *Academic GitHub:* https://github.com/nonsakhoo  
 *Public GitHub:* https://github.com/geeksloth  
 *Public YouTube:* https://www.youtube.com/@geeksloth  
@@ -140,22 +141,8 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 
 ---
 
-## Online Academic Profiles
-
-**Primary Academic Profile:**  
-GitHub: https://github.com/nonsakhoo
-
-**Public Development Profile:**  
-GitHub: https://github.com/geeksloth  
-Repositories: https://github.com/geeksloth?tab=repositories
-
-**Knowledge Sharing:**  
-YouTube Channel: https://www.youtube.com/@geeksloth
-
-
----
-
 > **Important Note:**  
 > This profile is exclusively intended for academic purposes and is subject to limited updates. For public contributions and projects, please visit [https://github.com/geeksloth](https://github.com/geeksloth).
+
 ---
 
