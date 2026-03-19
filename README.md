@@ -133,7 +133,12 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 - **Directional Motion Blur Minimal Dataset v1**  
   *Description:* Empirically captured single-frame image set for benchmarking movement (motion blur) artifact direction estimation and weighted magnitude quantification. Each image contains a single dark circular object translated during exposure over a white background, producing controllable linear blur governed by (orientation pair, velocity).  
   *Dataset url:* https://doi.org/10.34740/kaggle/dsv/13096999  
-  *Related paper:* https://doi.org/10.3390/s25247487  
+  *Related paper:* https://doi.org/10.3390/s25247487
+  
+- **Empirical Planar Black Dot Motion Blur**  
+  *Description:* A black dot marker moves in a plane at varying speeds in front of a DSLR camera.  
+  *Dataset url:* https://doi.org/10.34740/kaggle/dsv/15275005  
+  *Related paper:* under review process    
 
 ### Source codes
 - **Public Repositories**   
