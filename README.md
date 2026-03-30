@@ -28,16 +28,16 @@ Khon Kaen University, Thailand
 
 - **M.Sc. in Information and Communication Technology (Computer Science)** (2016–2018)  
 Khon Kaen University, Thailand  
-*GPAX: 3.94*
+*GPAX: 3.94 (out of 4.00)*
 
 - **B.Sc. in Information and Communication Technology (Computer Science)** (2012–2015)  
 Khon Kaen University, Thailand  
-*GPAX: 3.22*
+*GPAX: 3.22 (out of 4.00)*
 
 - **Primary & Secondary Education** (Grade 1–12)  
 Thailand  
 He ranked 1st for 7 consecutive years and consistently ranked in the top 5 with an overall-  
-*GPAX of 4.00*
+*GPAX of 4.00 (out of 4.00)*
 
 ---
 
