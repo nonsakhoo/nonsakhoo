@@ -109,6 +109,8 @@ Vehicle detection and classification systems, sensor integration, cloud computin
 
 ## Publications
 
+- **Nonsakhoo W**, Saiyod S. A Novel Method for Motion Blur Detection and Quantification Using Signal Analysis on a Controlled Empirical Image Dataset. Sensors. 2026; 26(8):2360. https://doi.org/10.3390/s26082360
+
 - Saiyod, S.; **Nonsakhoo, W.**; Li, Z.; Sirisawat, P. Defect-Intent Ambiguity Addressing for Training-Free Deterministic PCB Defect Localization via Template Selection and Dissimilarity Mapping. Sensors 2026, 26, 1541. https://doi.org/10.3390/s26051541
 
 - **Nonsakhoo, W.**; Saiyod, S. Movement Artifact Direction Estimation Based on Signal Processing Analysis of Single-Frame Images. Sensors 2025, 25, 7487. https://doi.org/10.3390/s25247487
